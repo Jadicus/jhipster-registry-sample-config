@@ -13,3 +13,7 @@ jhipster:
         authentication:
             jwt:
                 secret: my-secret-token-to-change-in-production
+
+spf:
+    policy:
+        test: git_spf_branch_app_yml
